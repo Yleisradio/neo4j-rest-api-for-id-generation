@@ -1,4 +1,6 @@
-Neo4j REST API for id generation
+# Neo4j REST API for id generation
+
+[![Build Status](https://travis-ci.org/Yleisradio/neo4j-rest-api-for-id-generation.svg)](https://travis-ci.org/Yleisradio/neo4j-rest-api-for-id-generation)
 
 This Neo4j plugin that provides rest api to create unique ids. Ids are incrementally generated starting from 1.
 
